@@ -82,6 +82,3 @@ Seaborn
 
 Jupyter Notebook
 
-ance Claim Amount Prediction regression project
-Extended description (second box)
-Implemented data preprocessing, exploratory data analysis, trained Linear Regression model, and evaluated performance using MAE and RMSE to predict medical insurance charges.
